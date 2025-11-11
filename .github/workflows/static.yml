@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './ITMD361Fall2025/labs/lab6'
+          path: './ITMD361Fall2025/labs/lab7'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
