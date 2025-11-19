@@ -1,0 +1,35 @@
+
+body {
+  margin: 5px;
+  padding: 50px 5px 5px 2px;
+  font-family: "DM Serif Text", serif;
+  background-image: url("../images/streets.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+
+#main-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #FCEAF1;
+  display: flex;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+#main-nav ul li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#main-nav ul li a:hover {
+  background-color: #ffc7dd;
+}
