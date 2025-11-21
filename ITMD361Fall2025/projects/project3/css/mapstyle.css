@@ -33,3 +33,18 @@ h2, p {
 #main-nav ul li a:hover {
   background-color: #ffc7dd;
 }
+
+.center {
+  text-align: center;
+}
+
+#button {
+  width: 200px;
+  text-align: center;
+  color: #fff;
+  background-color: #c00;
+  padding: 2em 0;
+  margin: 10px 10px 10px 87%;
+  font-size: 24px;
+  font-weight: bold;
+}
